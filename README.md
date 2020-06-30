@@ -1,5 +1,5 @@
 # World Cinema Festivals
-Analysis of the latinamerican movies in FILM festivals.  
+Analysis of the presence of latinamerican films in Rotterdam Film Festivals and in the Hubert Bals Foundation.  
 
 ## Contents
 
